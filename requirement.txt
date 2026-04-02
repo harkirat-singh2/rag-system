@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+transformers
+sentence-transformers
+chromadb
+fastapi
+uvicorn
+pypdf
+torch
